@@ -4,6 +4,7 @@
 
 # 🎞️ Vídeo da aplicação
 
+https://github.com/user-attachments/assets/5a1e995a-1c66-4c0e-9e33-12ebdf110c96
 
 
 ## 🚀 Tecnologias Utilizadas
